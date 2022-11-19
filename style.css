@@ -51,9 +51,3 @@ button{
 }
 
   
-@media screen and (max-width:1400px) {
-      .container1 {
-        display: flex;
-        flex-wrap: wrap;
-    } 
-}
